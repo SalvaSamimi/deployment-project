@@ -3,25 +3,29 @@
 ### [Assignment](assignment.md)
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to build a model that can determine the likelihood of a loan applicant approval. This helps lenders make informed decisions about whether to approve or reject a loan application.
 
 ## Hypothesis
-(fill in your hypothesis about which subset of applicants will be most likely to have their loan approved, and why. Give some examples of how you will test this hypothesis)
+As described in "W08-project.ipynb"
+
 
 ## EDA 
-(fill in what you discovered in your exploration of the dataset)
+As done in "W08-project.ipynb"
+
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
-### (your step 1)
-### (your step 2)
 
+### Visualisation
+### Null value detection and handling them
+### Categorical feature encoding
+
+  
 ## Results/Demo
 (fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
 
 ## Challanges 
-(discuss challenges you faced in the project)
+The most difficult challenge for me, was about deploying the model on AWS
 
 ## Future Goals
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
+The future goal is making nice view in user end
